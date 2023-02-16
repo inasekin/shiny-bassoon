@@ -1,0 +1,14 @@
+{
+  "name": "shiny-bassoon",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/inasekin/shiny-bassoon.git",
+  "author": "inasekin",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "23.1.0"
+  }
+}
